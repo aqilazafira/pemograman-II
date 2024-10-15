@@ -1,0 +1,7 @@
+C:\Users\Agam Nugraha\source\repos\P2_1_714230068\P2_1_714230068\bin\Debug\P2_1_714230068.exe.config
+C:\Users\Agam Nugraha\source\repos\P2_1_714230068\P2_1_714230068\bin\Debug\P2_1_714230068.exe
+C:\Users\Agam Nugraha\source\repos\P2_1_714230068\P2_1_714230068\bin\Debug\P2_1_714230068.pdb
+C:\Users\Agam Nugraha\source\repos\P2_1_714230068\P2_1_714230068\obj\Debug\P2_1_714230068.csproj.AssemblyReference.cache
+C:\Users\Agam Nugraha\source\repos\P2_1_714230068\P2_1_714230068\obj\Debug\P2_1_714230068.csproj.CoreCompileInputs.cache
+C:\Users\Agam Nugraha\source\repos\P2_1_714230068\P2_1_714230068\obj\Debug\P2_1_714230068.exe
+C:\Users\Agam Nugraha\source\repos\P2_1_714230068\P2_1_714230068\obj\Debug\P2_1_714230068.pdb
