@@ -1,0 +1,7 @@
+C:\Users\Agam Nugraha\Documents\SEMESTER 3\PEMOGRAMAN_II\pemograman_II_714230068\Pertemuan04\Praktikum\P4_1_714230068\P4_1_714230068\bin\Debug\P4_1_714230068.exe.config
+C:\Users\Agam Nugraha\Documents\SEMESTER 3\PEMOGRAMAN_II\pemograman_II_714230068\Pertemuan04\Praktikum\P4_1_714230068\P4_1_714230068\bin\Debug\P4_1_714230068.exe
+C:\Users\Agam Nugraha\Documents\SEMESTER 3\PEMOGRAMAN_II\pemograman_II_714230068\Pertemuan04\Praktikum\P4_1_714230068\P4_1_714230068\bin\Debug\P4_1_714230068.pdb
+C:\Users\Agam Nugraha\Documents\SEMESTER 3\PEMOGRAMAN_II\pemograman_II_714230068\Pertemuan04\Praktikum\P4_1_714230068\P4_1_714230068\obj\Debug\P4_1_714230068.csproj.AssemblyReference.cache
+C:\Users\Agam Nugraha\Documents\SEMESTER 3\PEMOGRAMAN_II\pemograman_II_714230068\Pertemuan04\Praktikum\P4_1_714230068\P4_1_714230068\obj\Debug\P4_1_714230068.csproj.CoreCompileInputs.cache
+C:\Users\Agam Nugraha\Documents\SEMESTER 3\PEMOGRAMAN_II\pemograman_II_714230068\Pertemuan04\Praktikum\P4_1_714230068\P4_1_714230068\obj\Debug\P4_1_714230068.exe
+C:\Users\Agam Nugraha\Documents\SEMESTER 3\PEMOGRAMAN_II\pemograman_II_714230068\Pertemuan04\Praktikum\P4_1_714230068\P4_1_714230068\obj\Debug\P4_1_714230068.pdb

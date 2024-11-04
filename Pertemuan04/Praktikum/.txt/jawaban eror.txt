@@ -1,0 +1,19 @@
+1. Kesalahan pada Console.WriteLine(myProduct.myType);  
+   Penyebab: Properti myType di kelas Product_714230068 diatur dengan akses protected, sehingga tidak dapat diakses di luar kelas tersebut.  
+   Solusi: Ubah protected string myType = "Book"; menjadi public string myType = "Book"; agar dapat diakses dari luar.
+
+2. Kesalahan pada Console.WriteLine(myProduct.myType); (versi lain)
+   Penyebab: Akses private pada myType membuatnya hanya bisa diakses dalam kelas itu sendiri.  
+   Solusi: Ubah private string myType; menjadi public string myType; untuk akses yang lebih luas.
+
+3. Mengapa DVD muncul di output?
+   Karena kode myProduct.MyType = "DVD"; menetapkan nilai MyType sebagai "DVD", dan perintah Console.WriteLine(myProduct.MyType); kemudian menampilkannya.
+
+4. Mengapa type dan title buku tidak muncul?  
+   Properti type dan title belum diimplementasikan di kelas Book_714230068, sehingga nilainya tidak bisa ditampilkan.
+
+5. Mengapa type dan title buku muncul di output sekarang?
+   Karena type dan title sudah diimplementasikan dengan menggunakan base(type, title), sehingga nilainya dapat ditampilkan.
+
+6. Mengapa objek product2 tidak dibuat seperti product1 atau seperti gambar?
+   Karena pada kelas DVD_714230064, bagian public DVD_714230064(string title, string duration) : base(duration, title) perlu diperbaiki. Juga, jika tidak ingin menampilkan title, cukup hapus atau komentar baris MyTitle = title;.
