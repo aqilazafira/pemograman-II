@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agam Nugraha\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemograman_II_714230068\\Pertemuan06\\Praktikum\\P6_1_714230068\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5643A30D-F992-4D1B-8C30-1D6CB0450109}|P6_1_714230068\\P6_1_714230068.csproj|c:\\users\\agam nugraha\\documents\\semester 3\\pemograman_ii\\pemograman_ii_714230068\\pertemuan06\\praktikum\\p6_1_714230068\\p6_1_714230068\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5643A30D-F992-4D1B-8C30-1D6CB0450109}|P6_1_714230068\\P6_1_714230068.csproj|solutionrelative:p6_1_714230068\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5643A30D-F992-4D1B-8C30-1D6CB0450109}|P6_1_714230068\\P6_1_714230068.csproj|c:\\users\\agam nugraha\\documents\\semester 3\\pemograman_ii\\pemograman_ii_714230068\\pertemuan06\\praktikum\\p6_1_714230068\\p6_1_714230068\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5643A30D-F992-4D1B-8C30-1D6CB0450109}|P6_1_714230068\\P6_1_714230068.csproj|solutionrelative:p6_1_714230068\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 175,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Agam Nugraha\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemograman_II_714230068\\Pertemuan06\\Praktikum\\P6_1_714230068\\P6_1_714230068\\Form1.cs",
+              "RelativeDocumentMoniker": "P6_1_714230068\\Form1.cs",
+              "ToolTip": "C:\\Users\\Agam Nugraha\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemograman_II_714230068\\Pertemuan06\\Praktikum\\P6_1_714230068\\P6_1_714230068\\Form1.cs",
+              "RelativeToolTip": "P6_1_714230068\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIA4wC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:40:31.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Agam Nugraha\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemograman_II_714230068\\Pertemuan06\\Praktikum\\P6_1_714230068\\P6_1_714230068\\Form1.cs",
+              "RelativeDocumentMoniker": "P6_1_714230068\\Form1.cs",
+              "ToolTip": "C:\\Users\\Agam Nugraha\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemograman_II_714230068\\Pertemuan06\\Praktikum\\P6_1_714230068\\P6_1_714230068\\Form1.cs [Design]",
+              "RelativeToolTip": "P6_1_714230068\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:38:06.074Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
