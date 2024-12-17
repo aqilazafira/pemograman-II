@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agam Nugraha\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemograman_II_714230068\\Pertemuan09\\P9_714230068\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P9_714230068\\P9_714230068.csproj|c:\\users\\agam nugraha\\documents\\semester 3\\pemograman_ii\\pemograman_ii_714230068\\pertemuan09\\p9_714230068\\p9_714230068\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P9_714230068\\P9_714230068.csproj|solutionrelative:p9_714230068\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P9_714230068\\P9_714230068.csproj|c:\\users\\agam nugraha\\documents\\semester 3\\pemograman_ii\\pemograman_ii_714230068\\pertemuan09\\p9_714230068\\p9_714230068\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P9_714230068\\P9_714230068.csproj|solutionrelative:p9_714230068\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P9_714230068\\P9_714230068.csproj|c:\\users\\agam nugraha\\documents\\semester 3\\pemograman_ii\\pemograman_ii_714230068\\pertemuan09\\p9_714230068\\p9_714230068\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P9_714230068\\P9_714230068.csproj|solutionrelative:p9_714230068\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 175,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\Agam Nugraha\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemograman_II_714230068\\Pertemuan09\\P9_714230068\\P9_714230068\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P9_714230068\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\Agam Nugraha\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemograman_II_714230068\\Pertemuan09\\P9_714230068\\P9_714230068\\Koneksi.cs",
+              "RelativeToolTip": "P9_714230068\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:31:48.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Agam Nugraha\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemograman_II_714230068\\Pertemuan09\\P9_714230068\\P9_714230068\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230068\\Form1.cs",
+              "ToolTip": "C:\\Users\\Agam Nugraha\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemograman_II_714230068\\Pertemuan09\\P9_714230068\\P9_714230068\\Form1.cs",
+              "RelativeToolTip": "P9_714230068\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:18:40.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Agam Nugraha\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemograman_II_714230068\\Pertemuan09\\P9_714230068\\P9_714230068\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230068\\Form1.cs",
+              "ToolTip": "C:\\Users\\Agam Nugraha\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemograman_II_714230068\\Pertemuan09\\P9_714230068\\P9_714230068\\Form1.cs [Design]",
+              "RelativeToolTip": "P9_714230068\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:52:56.89Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
