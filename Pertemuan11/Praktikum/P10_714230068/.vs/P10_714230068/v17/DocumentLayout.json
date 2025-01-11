@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P10_714230068\\P10_714230068.csproj|c:\\users\\aqila\\documents\\semester 3\\pemograman_ii\\pemrogramanii_714230068\\pertemuan11\\praktikum\\p10_714230068\\p10_714230068\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P10_714230068\\P10_714230068.csproj|solutionrelative:p10_714230068\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P10_714230068\\P10_714230068.csproj|C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\p10_714230068\\view\\formnilai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P10_714230068\\P10_714230068.csproj|solutionrelative:p10_714230068\\view\\formnilai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P10_714230068\\P10_714230068.csproj|C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\p10_714230068\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P10_714230068\\P10_714230068.csproj|solutionrelative:p10_714230068\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P10_714230068\\P10_714230068.csproj|C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\p10_714230068\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P10_714230068\\P10_714230068.csproj|solutionrelative:p10_714230068\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P10_714230068\\P10_714230068.csproj|C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\p10_714230068\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P10_714230068\\P10_714230068.csproj|solutionrelative:p10_714230068\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P10_714230068\\P10_714230068.csproj|C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\p10_714230068\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91EA0D6-1E35-4F37-9909-E682E3B97C93}|P10_714230068\\P10_714230068.csproj|solutionrelative:p10_714230068\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\P10_714230068\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P10_714230068\\view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\P10_714230068\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P10_714230068\\view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:59:23.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\P10_714230068\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P10_714230068\\controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\P10_714230068\\controller\\Koneksi.cs",
+              "RelativeToolTip": "P10_714230068\\controller\\Koneksi.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA0wCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:05:22.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\P10_714230068\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P10_714230068\\view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\P10_714230068\\view\\FormNilai.cs",
+              "RelativeToolTip": "P10_714230068\\view\\FormNilai.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:05:03.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nilai.cs",
+              "DocumentMoniker": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\P10_714230068\\controller\\Nilai.cs",
+              "RelativeDocumentMoniker": "P10_714230068\\controller\\Nilai.cs",
+              "ToolTip": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\P10_714230068\\controller\\Nilai.cs",
+              "RelativeToolTip": "P10_714230068\\controller\\Nilai.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:04:50.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormNilai.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\P10_714230068\\view\\FormNilai.Designer.cs",
+              "RelativeDocumentMoniker": "P10_714230068\\view\\FormNilai.Designer.cs",
+              "ToolTip": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\P10_714230068\\view\\FormNilai.Designer.cs",
+              "RelativeToolTip": "P10_714230068\\view\\FormNilai.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:01:47.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\P10_714230068\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P10_714230068\\view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Pertemuan11\\Praktikum\\P10_714230068\\P10_714230068\\view\\ParentForm.cs",
+              "RelativeToolTip": "P10_714230068\\view\\ParentForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:50:38.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
