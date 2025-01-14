@@ -17,9 +17,10 @@ namespace P10_714230068
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ParentForm());
             Application.Run(new StartUp());
             Application.Run(new FormLogin());
+            Application.Run(new ParentForm());
+
         }
     }
 }

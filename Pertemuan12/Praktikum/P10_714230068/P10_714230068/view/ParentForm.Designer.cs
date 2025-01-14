@@ -68,20 +68,23 @@ namespace P10_714230068.view
             // dToolStripMenuItem
             // 
             this.dToolStripMenuItem.Name = "dToolStripMenuItem";
-            this.dToolStripMenuItem.Size = new System.Drawing.Size(93, 22);
+            this.dToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.dToolStripMenuItem.Text = "Exit";
+            this.dToolStripMenuItem.Click += new System.EventHandler(this.dToolStripMenuItem_Click);
             // 
             // dataMahasiswaToolStripMenuItem
             // 
             this.dataMahasiswaToolStripMenuItem.Name = "dataMahasiswaToolStripMenuItem";
             this.dataMahasiswaToolStripMenuItem.Size = new System.Drawing.Size(104, 22);
             this.dataMahasiswaToolStripMenuItem.Text = "Data Mahasiswa";
+            this.dataMahasiswaToolStripMenuItem.Click += new System.EventHandler(this.dataMahasiswaToolStripMenuItem_Click);
             // 
             // dataNilaiToolStripMenuItem
             // 
             this.dataNilaiToolStripMenuItem.Name = "dataNilaiToolStripMenuItem";
             this.dataNilaiToolStripMenuItem.Size = new System.Drawing.Size(70, 22);
             this.dataNilaiToolStripMenuItem.Text = "Data Nilai";
+            this.dataNilaiToolStripMenuItem.Click += new System.EventHandler(this.dataNilaiToolStripMenuItem_Click);
             // 
             // tugasWeek11ToolStripMenuItem
             // 
@@ -95,14 +98,16 @@ namespace P10_714230068.view
             // dataMasterBarangToolStripMenuItem
             // 
             this.dataMasterBarangToolStripMenuItem.Name = "dataMasterBarangToolStripMenuItem";
-            this.dataMasterBarangToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
+            this.dataMasterBarangToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.dataMasterBarangToolStripMenuItem.Text = "Data Master Barang";
+            this.dataMasterBarangToolStripMenuItem.Click += new System.EventHandler(this.dataMasterBarangToolStripMenuItem_Click);
             // 
             // dataTransaksiToolStripMenuItem
             // 
             this.dataTransaksiToolStripMenuItem.Name = "dataTransaksiToolStripMenuItem";
-            this.dataTransaksiToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
+            this.dataTransaksiToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.dataTransaksiToolStripMenuItem.Text = "Data Transaksi";
+            this.dataTransaksiToolStripMenuItem.Click += new System.EventHandler(this.dataTransaksiToolStripMenuItem_Click);
             // 
             // ParentForm
             // 
@@ -112,7 +117,7 @@ namespace P10_714230068.view
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "ParentForm";
             this.Text = "ParentForm";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.ParentForm_FormClosing);
